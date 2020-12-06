@@ -1,6 +1,7 @@
 # Misc
 .DS_Store
 tmp/
+start.sh
 
 .vscode
 .vscode/*
@@ -120,6 +121,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+mlenv/
 env/
 venv/
 ENV/
