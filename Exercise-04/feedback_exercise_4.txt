@@ -1,0 +1,30 @@
+Feedback Exercise 4:
+
+Task 1.1: 3.0 / 3.0 points.
+
+----------------------------------
+Task 1.2: 4.0 / 4.0 points.
+
+----------------------------------
+Task 2.1: 2.0 / 2.0 points.
+
+----------------------------------
+Task 2.2: 3.0 / 3.0 points.
+
+----------------------------------
+Task 3.1: 1.5 / 2.0 points.
+G should be negated
+----------------------------------
+Task 3.2: 3.0 / 3.0 points.
+
+----------------------------------
+Task 3.3: 1.0 / 3.0 points.
+Number of support vectors: missing. Last question: wrong, see solutions
+----------------------------------
+Total score: 17.5/20.0
+
+
+
+
+If you have questions regarding the correction, please contact the tutor Philipp Dahlinger at
+uyxuz@student.kit.edu
